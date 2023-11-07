@@ -7,3 +7,16 @@
 #three{
     background-color: hsl(2.56deg 66.67% 51.76%);
 }
+#maya{
+    height:40px;
+    width:40px;
+}
+#social{
+    height:40px;
+    width:150px;
+}
+h1{
+    font-family: Arial;
+    font-weight: lighter;
+    color:white;
+}
