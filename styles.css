@@ -40,8 +40,9 @@ nav{
     
 }
 #social{
-    height:20px;
-    width:150px;
+    padding-top: 20px;
+    height:25px;
+    width:250px;
 }
 h1{
     font-size: 40px;
@@ -64,6 +65,7 @@ footer{
 }
 #copyright{
     color: black;
+    font-size:18px;
 }
 #ss{
     position:absolute;
