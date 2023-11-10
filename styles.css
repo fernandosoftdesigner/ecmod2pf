@@ -12,18 +12,29 @@ nav{
 
 
 #one{
+    
     padding-top: 1px;
     background-color: hsl(142.64deg 36.55% 28.43%);
     text-align: center;
     border-bottom: 25px solid white;
+    padding-bottom: 20px;
 
 }
-.alebrijes{
+#two{
     display:flex;
     align-items: center;
     text-align: center;
     background-color: hsl(2.56deg 66.67% 51.76%);
     border-bottom: 25px solid white;
+}
+#three{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    background-color: hsl(2.56deg 66.67% 51.76%);
+    border-right:25px solid hsl(2.56deg 66.67% 51.76%);
+
+
 }
 .imagen{
     flex:1;
@@ -60,8 +71,10 @@ a{
     padding-left: 18px;
 }
 footer{
-    border-top: 2px solid lightgray;
-   
+    padding-top: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+
 }
 #copyright{
     color: black;
@@ -89,6 +102,11 @@ footer{
     border-color: white;
 }
 #learn{
+    display:inline;
     color: white;
     text-decoration-line:underline;
+    
+}
+#inline{
+    display: inline;
 }
